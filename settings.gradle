@@ -1,0 +1,2 @@
+rootProject.name = "ScienCal"
+include ':app'
